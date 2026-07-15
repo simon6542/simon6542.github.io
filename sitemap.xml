@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://simon6542.github.io/</loc><priority>0.5</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/</loc><priority>1.0</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/guide01-jogeon.html</loc><priority>0.8</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/guide02-sincheong.html</loc><priority>0.8</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/guide03-geumaek.html</loc><priority>0.8</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/guide04-ilsu.html</loc><priority>0.8</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/guide05-siljeobinjeong.html</loc><priority>0.8</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/guide06-jabaltoesa.html</loc><priority>0.8</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/guide07-banbok-gamaek.html</loc><priority>0.8</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/guide08-jogijaechwieop.html</loc><priority>0.8</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/guide09-bujeongsugeup.html</loc><priority>0.8</priority></url>
+  <url><loc>https://simon6542.github.io/sileop-lab/guide10-yesi.html</loc><priority>0.8</priority></url>
   <url><loc>https://simon6542.github.io/jeolse-lab/</loc><priority>1.0</priority></url>
   <url><loc>https://simon6542.github.io/jeolse-lab/guide01-bigwase-12eok.html</loc><priority>0.8</priority></url>
   <url><loc>https://simon6542.github.io/jeolse-lab/guide02-sedae-bunri.html</loc><priority>0.8</priority></url>
